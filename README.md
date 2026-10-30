@@ -2,11 +2,10 @@
 ***
 ### COURSE :-  INTRODUCTION TO OPEN - SOURCE AND DEVELOPMENT
 **CONTRIBUTORS FOR THE PROJECT(NAME ROLL NO.) :-**  
-**1. RAGHAV SHARMA 992501030068**   
-**2. KASHVI BHATIA 992501030086**  
-**3. SIDDHI GOEL 992501030061**  
-**4. YASHIKA KHANDELWAL 992501030088**  
-**5. SUHAANI SINGH 992501030136**  
+**1. Atharv Parihar 992501030055**   
+**2. Rijul Chawla 992501030072**  
+**3. Raghav Sharma 992501030068**  
+**4. Arman Sharma 992501030090**  
 ***
 ## PROJECT INFORMATION  
 MiniLang is a lightweight command-based programming language and interpreter developed in C++ for educational purposes. The project demonstrates the core concepts behind programming language design, including lexical analysis, parsing, command interpretation, variable management, and runtime execution. It supports multiple data types, arithmetic operations, string manipulation, comparison operations, and exception handling while following object-oriented programming principles such as abstraction, inheritance, and polymorphism.  
